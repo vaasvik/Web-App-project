@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>KK Devops Home Page</title>
+<title>KK Funda Home Page</title>
 <link href="images/kkfunda.jpg" rel="icon">
 <!-- Bootstrap CDN -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK Devops YOUTUBE CHANNEL NEW BATCH ON JAN 25th 7 pm</h1>
+    <h1>🚀 Welcome to KK Funda YOUTUBE CHANNEL NEW BATCH ON JAN 25th 7 pm</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
@@ -91,7 +91,7 @@
 </div>
 
 <footer>
-    <p>© 2024 KK Devops Training & Development Center</p>
+    <p>© 2024 KK Funda Training & Development Center</p>
     <p><small>Powered by <a href="https://google.com/">KK FUNDA</a></small></p>
 </footer>
 
