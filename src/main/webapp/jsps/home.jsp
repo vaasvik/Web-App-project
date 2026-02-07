@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK Funda YOUTUBE CHANNEL NEW BATCH ON JAN 25th 7 pm</h1>
+    <h1>🚀 Welcome to KK Funda YOUTUBE CHANNEL NEW BATCH ON JAN 25th 7.00 PM</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
