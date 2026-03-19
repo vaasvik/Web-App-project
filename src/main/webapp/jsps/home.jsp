@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hi KK FUNDA DEVOPS YOUTUBE CHANNEL</h1>
+    <h1>🚀 Hello KK FUNDA DEVOPS YOUTUBE CHANNEL FROM MARCH 25TH NEW BATCH STARTS</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
