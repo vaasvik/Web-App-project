@@ -10,7 +10,7 @@ try{
         git branch: 'development', url: 'https://github.com/vaasvik/Web-App-project.git'
     }
     //stage-2 build the project & createpackage
-    def mavenHome = tool name: 'Maven 3.9.9'
+    def mavenHome=tool name: 'Maven 3.9.9'
     stage ('build')
     {
         sh "${mavenHome}/bin/mvn clean package"
